@@ -33,13 +33,14 @@
  
 ---
 
-
 <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.Omarookolosio94.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94)](https://github.com/omarookolosio94/github-readme-stats)
 
 [website]: https://omarookolosio94.github.io/matrix/
 [twitter]: https://twitter.com/Okolosio1
