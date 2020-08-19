@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Okolosio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Okolosio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Okolosio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Okolosio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -33,14 +33,9 @@
  
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<!-- ![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94) -->
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.Omarookolosio94.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94)](https://github.com/omarookolosio94/github-readme-stats)
+![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94&show_icons=true)
 
 [website]: https://omarookolosio94.github.io/matrix/
 [twitter]: https://twitter.com/Okolosio1
