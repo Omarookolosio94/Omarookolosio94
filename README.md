@@ -1,6 +1,7 @@
 ### Hi, I am OKolosio Oghenemaro[website] 👋 . I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language. Besides Programming I Am Passionate About The Environment And Its Conservation.
 
 [![Website](https://okolosioport.herokuapp.com/static/media/logolight.830e8ca0.png)](https://okolosioport.herokuapp.com/)
+[![Website][<img align="left" alt="codestackr.com" width="22px" height="22px" src="https://okolosioport.herokuapp.com/static/media/logolight.830e8ca0.png" />]](https://okolosioport.herokuapp.com/)
 
 ## I'm a Full Stack Developer (MERN Stack)!
 
