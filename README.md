@@ -1,10 +1,10 @@
-## Hi, I am OKolosio Oghenemaro [website] .
+## Hi, I am Okolosio Oghenemaro [website] .
 
 - 😏 I'm a Full Stack Developer (MERN Stack)!
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
 - 📘 I’m currently learning svelte
 - 🌱 I Am Passionate About The Environment And Its Conservation.
-- 👯 I’m looking to meeting developers
+- 👯 I’m look forward to meeting developers
 - 🥅 2020 Goals: Learn Data Science with Python
 
 ### Connect with me:
