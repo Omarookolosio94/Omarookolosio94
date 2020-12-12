@@ -1,4 +1,4 @@
-## Hi, I am Okolosio Oghenemaro [website] .
+## Hi, I am Oghenemaro Okolosio [website] .
 
 - 😏 I'm a Full Stack Developer (MERN Stack)!
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
