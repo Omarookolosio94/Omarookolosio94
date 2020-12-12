@@ -5,7 +5,7 @@
 - 📘 I’m currently learning svelte
 - 🌱 I Am Passionate About The Environment And Its Conservation.
 - 👯 I’m look forward to meeting developers
-- 🥅 2020 Goals: Learn Data Science with Python
+- 🥅 2021 Goal: Learn Data Science with Python
 
 ### Connect with me:
 
