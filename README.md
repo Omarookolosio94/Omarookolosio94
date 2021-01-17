@@ -4,7 +4,7 @@
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
 - 🌱 I Am Passionate About The Environment And Its Conservation.
 - 👯 I’m look forward to meeting developers
-- 🥅 2021 Goal: Learn Data Science with Python
+- 🥅 2021 Goal: Learn .NET Framework and Data Science with Python
 
 ### Connect with me:
 
