@@ -32,7 +32,7 @@
 
 ![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94&show_icons=true)
 
-[website]: https://omarookolosio94.github.io/matrix/
-[twitter]: https://twitter.com/Okolosio1
-[instagram]: https://instagram.com/okolosio_oghenemaro
+[website]: https://oghenemaro.com/
+[twitter]: https://twitter.com/maro_okolosio
+[instagram]: https://www.instagram.com/maro_okolosio/
 [linkedin]: https://www.linkedin.com/in/oghenemaro-okolosio-24653512a
