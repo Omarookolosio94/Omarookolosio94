@@ -1,6 +1,6 @@
 ## Hi, I am Oghenemaro Okolosio [website] .
 
-- 😏 I'm a Full Stack Developer with 2+ years of hands-on experience building a web application.
+- 😏 I'm a Full Stack Developer with 2+ years of hands-on experience building web applications.
 - 💻 I build apps that work across all platforms and browsers.
 - 🌱 I Am Passionate About The Environment And Its Conservation.
 - 👯 I’m look forward to meeting developers
