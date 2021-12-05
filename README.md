@@ -1,10 +1,10 @@
 ## Hi, I am Oghenemaro Okolosio [website] .
 
-- 😏 I'm a Full Stack Developer with 2+ years of hands-on experience building web applications.
+- 😏 I'm a Full Stack Developer with 3+ years of hands-on experience building web applications.
 - 💻 I build apps that work across all platforms and browsers.
 - 🌱 I Am Passionate About The Environment And Its Conservation.
 - 👯 I’m look forward to meeting developers
-- 🥅 2021 Goal: Learn .NET Framework and Data Science with Python
+- 🥅 2022 Goal: Deep dive into Cloud engineering and/or Blockchain. And/or because I can't kill myself 😏
 
 
 ### Connect with me:
