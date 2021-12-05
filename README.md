@@ -7,6 +7,7 @@
 - 🥅 2022 Goal: 
      - Deep dive into Cloud engineering and/or Blockchain. And/or because I can't kill myself 😏
      - Launch my startup
+     - Be a millionaire in naira
 
 
 ### Connect with me:
