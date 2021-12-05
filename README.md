@@ -4,7 +4,9 @@
 - 💻 I build apps that work across all platforms and browsers.
 - 🌱 I Am Passionate About The Environment And Its Conservation.
 - 👯 I’m look forward to meeting developers
-- 🥅 2022 Goal: Deep dive into Cloud engineering and/or Blockchain. And/or because I can't kill myself 😏
+- 🥅 2022 Goal: 
+     Deep dive into Cloud engineering and/or Blockchain. And/or because I can't kill myself 😏
+     Launch my startup
 
 
 ### Connect with me:
