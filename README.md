@@ -1,5 +1,5 @@
 # 💫 About Me:
-😏 Software Engineer with over four years of experience, highly proficient in C# and JavaScript. I build REST APIs and web applications focusing on delivering an optimal experience to users.<br>🌱 I Am Passionate About The Environment And Its Conservation.<br>👯 I’m looking forward to meeting developers<br>🥅 2023 Goal:<br>* Deep dive into Cloud engineering and/or Blockchain. And/or because I can't kill myself 😏<br>* Launch my startup<br>* Be a millionaire in naira<br>* Change my github profile picture
+😏 Software Engineer with over four years of experience, highly proficient in C# and JavaScript. I build REST APIs and web applications focusing on delivering an optimal experience to users.<br>🌱 I Am Passionate About The Environment And Its Conservation.<br>👯 I’m looking forward to meeting developers<br>🥅 2023 Goal:<br>* Deep dive into Cloud engineering and/or Blockchain. And/or because I can't kill myself 😏<br>* Launch my startup <br>* Change my github profile picture
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maro_okolosio) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maro_okolosio) 
