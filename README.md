@@ -1,10 +1,14 @@
 #### Hi, I'm Oghenemaro 👋
 
-Seven years ago, I started writing code for banks. Since then, most of what I've built has been about money moving between people who don't know each other and have no reason to trust each other. Payments, loans, marketplaces.
+Seven years ago, I started writing code for banks. Since then, I've built mostly systems for moving money, tracking where it goes, and making sure everyone involved agrees on what happened. Payments, loans, installment credit, marketplaces.
 
-The thing nobody tells you about that work is how little of it is the code. It's the state machine. It's the error message. It's the merchant developer on a call at 9pm who can't get a test purchase to go through, and the realisation that the endpoint you thought was obvious isn't obvious at all.
+Over time, I've become just as interested in what happens after the transaction as what happens before it. A payment can succeed, but does the ledger reflect it? Do the records reconcile? Can the business see what happened without someone spending half a day pulling spreadsheets together? 
 
-I like that part. I build the thing, document it, and stay with it in production.
+That's where my work has been taking me lately: building data solutions, automating reconciliation processes, and turning reporting workflows that once depended on manual effort into repeatable, reliable systems.
+
+Nobody tells you that building financial software is mostly not code. It's the state machine. It's the failure mode. It's the difference between a transaction being successful and a transaction being accounted for. It's the merchant developer on a call at 9pm who can't get a test purchase through.
+
+I like working across that entire chain. I build the services, work with the data, automate the processes, document the interfaces, and stay with the systems in production.
 
 - 🧱 C#, .NET and ASP.NET Core on the backend. TypeScript with React, Next.js, Angular, Vue, and Svelte on the front end
 - 🗄️ SQL is half my job: schema design, indexing, reading query plans, making slow things fast
