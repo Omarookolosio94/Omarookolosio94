@@ -1,6 +1,6 @@
 #### Hi, I'm Oghenemaro 👋
 
-Seven years ago, I started writing code for banks. Since then, I've built mostly systems for moving money, tracking where it goes, and making sure everyone involved agrees on what happened. Payments, loans, installment credit, marketplaces.
+Seven years ago, I started writing code for banks. Since then, I've built mostly systems for moving money, tracking where it goes, and making sure everyone involved agrees on what happened. Payments, loans, instalment credit, marketplaces.
 
 Over time, I've become just as interested in what happens after the transaction as what happens before it. A payment can succeed, but does the ledger reflect it? Do the records reconcile? Can the business see what happened without someone spending half a day pulling spreadsheets together? 
 
