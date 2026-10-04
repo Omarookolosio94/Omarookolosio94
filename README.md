@@ -6,7 +6,7 @@ Over time, I've become just as interested in what happens after the transaction 
 
 That's where my work has been taking me lately: building data solutions, automating reconciliation processes, and turning reporting workflows that once depended on manual effort into repeatable, reliable systems.
 
-Nobody tells you that building financial software is mostly not code. It's the state machine. It's the failure mode. It's the difference between a transaction being successful and a transaction being accounted for. It's the merchant developer on a call at 9pm who can't get a test purchase through.
+Nobody tells you that building financial software is mostly not code. It's the state machine. It's the failure mode. It's the difference between a transaction being successful and a transaction being accounted for. It's the merchant developer on a call who can't get a test purchase through.
 
 I like working across that entire chain. I build the services, work with the data, automate the processes, document the interfaces, and stay with the systems in production.
 
